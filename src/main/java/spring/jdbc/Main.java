@@ -1,8 +1,8 @@
-package com.learning;
+package spring.jdbc;
 
-import com.learning.config.JdbcConfiguration;
-import com.learning.dao.CircleDao;
-import com.learning.model.Circle;
+import spring.jdbc.config.JdbcConfiguration;
+import spring.jdbc.dao.CircleDao;
+import spring.jdbc.model.Circle;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

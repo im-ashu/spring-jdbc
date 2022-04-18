@@ -1,6 +1,6 @@
-package com.learning.dao;
+package spring.jdbc.dao;
 
-import com.learning.model.Circle;
+import spring.jdbc.model.Circle;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;

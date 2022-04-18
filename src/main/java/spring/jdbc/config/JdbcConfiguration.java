@@ -1,4 +1,4 @@
-package com.learning.config;
+package spring.jdbc.config;
 
 import javax.sql.DataSource;
 import org.springframework.beans.factory.annotation.Value;

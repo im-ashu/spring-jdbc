@@ -1,4 +1,4 @@
-package com.learning.model;
+package spring.jdbc.model;
 
 public class Circle {
 
